@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cgooderham94, Senior Front-end Developer and budding tech leader!
+- 👋 Hi, I’m @cgooderham94, Frontend Engineer @ BlockFi and budding tech leader!
 - 👀 I’m interested in all things front-end development with a passion for building UX-focussed UI's with an emphasis on scalable architecture, accessibility and performance.
 - 🗨️ “Learning is a lifelong process of keeping abreast of change. And the most pressing task is to teach people how to learn.”
 - 💻 You'll mostly see my self-learning and freelance adventures here, but I'd love to chat more about my experience, interests and what I build and get up to in my day-to-day role!
